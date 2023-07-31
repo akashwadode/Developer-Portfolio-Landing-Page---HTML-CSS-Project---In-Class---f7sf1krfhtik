@@ -45,6 +45,10 @@ body {
     text-align: center;
     font-weight: 400px;
     color: white;
+    font-size: 86px;
+}
+.black-box-section h3 span{
+  font-size: 96px;
 }
 
 
